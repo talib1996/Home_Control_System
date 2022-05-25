@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BT Controller</string>
+    <string name="label_scanning">Scanning</string>
+    <string name="label_scanned">Scanned</string>
+    <string name="label_scan_devices">Scan Devices</string>
+    <string name="label_scan_devices_again">Scan devices again"</string>
+    <string name="label_disconnect">Disconnect</string>
+    <string name="label_disconnected">Disconnected</string>
+    <string name="label_connected">Connected</string>
+    <string name="phone_number">Enter Your mobile number</string>
+    <string name="password">Enter Password</string>
+    <string name="title_activity_pairing_list">PairingList</string>
+    <string name="title_log_in">Log In</string>
+    <string name="label_log_out">Logout</string>
+    <string name="auto_fill_hint_for_username">user1998</string>
+    <string name="label_new_here_sign_up">New Here? Sign Up</string>
+    <string name="label_already_signed_up">Already Signed up?  Log in</string>
+    <string name="label_sign_up">Sign Up</string>
+    <string name="auto_fill_hint_for_password">1234</string>
+    <string name="device_list">Device/s :</string>
+    <string name="discover_devices">Discover Devices</string>
+    <string name="toggle_button">ToggleButton</string>
+    <string name="load_1">Load # 1</string>
+    <string name="load_2">Load # 2</string>
+</resources>
